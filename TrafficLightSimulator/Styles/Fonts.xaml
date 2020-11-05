@@ -1,0 +1,55 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Montserrat -->
+    <FontFamily x:Key="MontserratBlack">pack://application;,,,/Fonts/#Montserrat Black</FontFamily>
+    <FontFamily x:Key="MontserratBlackItalic">pack://application;,,,/Fonts/#Montserrat Black Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratBold">pack://application;,,,/Fonts/#Montserrat Bold</FontFamily>
+    <FontFamily x:Key="MontserratBoldItalic">pack://application;,,,/Fonts/#Montserrat Bold Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratExtraBold">pack://application;,,,/Fonts/#Montserrat ExtraBold</FontFamily>
+    <FontFamily x:Key="MontserratExtraBoldItalic">pack://application;,,,/Fonts/#Montserrat ExtraBold Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratExtraLight">pack://application;,,,/Fonts/#Montserrat ExtraLight</FontFamily>
+    <FontFamily x:Key="MontserratExtraLightItalic">pack://application;,,,/Fonts/#Montserrat ExtraLight Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratItalic">pack://application;,,,/Fonts/#Montserrat Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratLight">pack://application;,,,/Fonts/#Montserrat Light</FontFamily>
+    <FontFamily x:Key="MontserratLightItalic">pack://application;,,,/Fonts/#Montserrat Light Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratMedium">pack://application;,,,/Fonts/#Montserrat Medium</FontFamily>
+    <FontFamily x:Key="MontserratMediumItalic">pack://application;,,,/Fonts/#Montserrat Medium Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratRegular">pack://application;,,,/Fonts/#Montserrat Regular</FontFamily>
+
+    <FontFamily x:Key="MontserratSemiBold">pack://application;,,,/Fonts/#Montserrat SemiBold</FontFamily>
+    <FontFamily x:Key="MontserratSemiBoldItalic">pack://application;,,,/Fonts/#Montserrat SemiBold Italic</FontFamily>
+
+    <FontFamily x:Key="MontserratThin">pack://application;,,,/Fonts/#Montserrat Thin</FontFamily>
+    <FontFamily x:Key="MontserratThinItalic">pack://application;,,,/Fonts/#Montserrat Thin Italic</FontFamily>
+
+    <!-- PT Sans -->
+    <FontFamily x:Key="PtSansBold">pack://application;,,,/Fonts/#PT Sans Bold</FontFamily>
+    <FontFamily x:Key="PtSansBoldItalic">pack://application;,,,/Fonts/#PT Sans Bold Italic</FontFamily>
+    <FontFamily x:Key="PtSansItalic">pack://application;,,,/Fonts/#PT Sans Italic</FontFamily>
+    <FontFamily x:Key="PtSansRegular">pack://application;,,,/Fonts/#PT Sans</FontFamily>
+
+    <!-- Base Style -->
+    <Style TargetType="{x:Type Control}" x:Key="BaseStyle">
+        <Setter Property="FontFamily" Value="{StaticResource MontserratMedium}" />
+    </Style>
+
+    <!-- Styles for Controls -->
+    <Style TargetType="{x:Type TextBlock}" x:Key="BaseTextBlockStyle">
+        <Setter Property="FontFamily" Value="{StaticResource MontserratMedium}" />
+    </Style>
+
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseStyle}" />
+    <Style TargetType="{x:Type Label}" BasedOn="{StaticResource BaseStyle}" />
+    <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource BaseStyle}" />
+    <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource BaseTextBlockStyle}" />
+    <Style TargetType="{x:Type ListView}" BasedOn="{StaticResource BaseStyle}" />
+    
+</ResourceDictionary>

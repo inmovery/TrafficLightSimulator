@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLightSimulator", "TrafficLightSimulator\TrafficLightSimulator.csproj", "{1724A50C-461D-4A34-BD02-3736CFBDD1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimePickerControlLibrary", "TimePickerControlLibrary\TimePickerControlLibrary.csproj", "{A15E8CEF-D0B2-4699-B77D-D6BFE624183D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1724A50C-461D-4A34-BD02-3736CFBDD1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1724A50C-461D-4A34-BD02-3736CFBDD1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1724A50C-461D-4A34-BD02-3736CFBDD1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1724A50C-461D-4A34-BD02-3736CFBDD1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15E8CEF-D0B2-4699-B77D-D6BFE624183D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15E8CEF-D0B2-4699-B77D-D6BFE624183D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15E8CEF-D0B2-4699-B77D-D6BFE624183D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15E8CEF-D0B2-4699-B77D-D6BFE624183D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8569AF-7032-4DFB-A6DC-E7242BA53FC9}
+	EndGlobalSection
+EndGlobal

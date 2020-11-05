@@ -1,0 +1,13 @@
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary_MarkupCompile.cache
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary_MarkupCompile.lref
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\bin\Debug\TimePickerControlLibrary.dll
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\bin\Debug\TimePickerControlLibrary.pdb
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\Themes\Generic.baml
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.g.resources
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.Properties.Resources.resources
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.dll
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.pdb
+C:\Users\roman\source\repos\TrafficLightSimulator\TimePickerControlLibrary\obj\Debug\TimePickerControlLibrary.csprojAssemblyReference.cache

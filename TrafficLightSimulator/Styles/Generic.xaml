@@ -1,0 +1,19 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:po="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options">
+    <VisualBrush x:Key="HatchBrush"
+                 TileMode="Tile"
+                 Viewport="0,0,5,5"
+                 ViewportUnits="Absolute"
+                 Viewbox="0,0,5,5"
+                 ViewboxUnits="Absolute"
+                 po:Freeze="True">
+        <VisualBrush.Visual>
+            <Path
+                Data="M 0 5 L 5 0 M -2 2 L 2 -2 M 3 7 L 7 3"
+                Stroke="#80000000"
+                StrokeEndLineCap="Square"
+                RenderOptions.EdgeMode="Aliased"/>
+        </VisualBrush.Visual>
+    </VisualBrush>
+</ResourceDictionary>

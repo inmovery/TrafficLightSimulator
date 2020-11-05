@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\roman\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\roman\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TrafficLightSimulator.1807631946.00" t="ExcludeRecursive" />
+    <e p="C:\Users\roman\source\repos\TrafficLightSimulator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TimePickerControlLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core" t="Include">
+          <e p="MathUtil.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Themes" t="Include">
+          <e p="Generic.xaml" t="Include" />
+        </e>
+        <e p="TimePicker.cs" t="Include" />
+        <e p="TimePickerControlLibrary.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TrafficLightSimulator" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Converters" t="Include">
+          <e p="ModeAutomaticConverter.cs" t="Include" />
+          <e p="ModeAutomaticEnabledConverter.cs" t="Include" />
+          <e p="ModeManualConverter.cs" t="Include" />
+          <e p="ModeManualEnabledConverter.cs" t="Include" />
+          <e p="TimeSpanRoundUpConverter.cs" t="Include" />
+          <e p="UtcToLocalConverter.cs" t="Include" />
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="Montserrat-Black.ttf" t="Include" />
+          <e p="Montserrat-BlackItalic.ttf" t="Include" />
+          <e p="Montserrat-Bold.ttf" t="Include" />
+          <e p="Montserrat-BoldItalic.ttf" t="Include" />
+          <e p="Montserrat-ExtraBold.ttf" t="Include" />
+          <e p="Montserrat-ExtraBoldItalic.ttf" t="Include" />
+          <e p="Montserrat-ExtraLight.ttf" t="Include" />
+          <e p="Montserrat-ExtraLightItalic.ttf" t="Include" />
+          <e p="Montserrat-Italic.ttf" t="Include" />
+          <e p="Montserrat-Light.ttf" t="Include" />
+          <e p="Montserrat-LightItalic.ttf" t="Include" />
+          <e p="Montserrat-Medium.ttf" t="Include" />
+          <e p="Montserrat-MediumItalic.ttf" t="Include" />
+          <e p="Montserrat-Regular.ttf" t="Include" />
+          <e p="Montserrat-SemiBold.ttf" t="Include" />
+          <e p="Montserrat-SemiBoldItalic.ttf" t="Include" />
+          <e p="Montserrat-Thin.ttf" t="Include" />
+          <e p="Montserrat-ThinItalic.ttf" t="Include" />
+          <e p="PTSans-Bold.ttf" t="Include" />
+          <e p="PTSans-BoldItalic.ttf" t="Include" />
+          <e p="PTSans-Italic.ttf" t="Include" />
+          <e p="PTSans-Regular.ttf" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="Resources.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="DurationColor.cs" t="Include" />
+          <e p="Mode.cs" t="Include" />
+          <e p="TrafficLight.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="App.g.cs" t="Include" />
+            <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+            <e p="Views" t="Include">
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="SettingsWindow.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Styles" t="Include">
+          <e p="Buttons.xaml" t="Include" />
+          <e p="Colors.xaml" t="Include" />
+          <e p="ContentControls.xaml" t="Include" />
+          <e p="Fonts.xaml" t="Include" />
+          <e p="Generic.xaml" t="Include" />
+          <e p="Icons.xaml" t="Include" />
+          <e p="TextControls.xaml" t="Include" />
+          <e p="Texts.xaml" t="Include" />
+        </e>
+        <e p="TrafficLightSimulator.csproj" t="IncludeRecursive" />
+        <e p="ViewModels" t="Include">
+          <e p="Base" t="Include">
+            <e p="BaseViewModel.cs" t="Include" />
+            <e p="RelayCommand.cs" t="Include" />
+          </e>
+          <e p="MainViewModel.cs" t="Include" />
+          <e p="SettingsViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="MainWindow.xaml" t="Include" />
+          <e p="MainWindow.xaml.cs" t="Include" />
+          <e p="SettingsWindow.xaml" t="Include" />
+          <e p="SettingsWindow.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="TrafficLightSimulator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
