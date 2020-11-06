@@ -64,8 +64,6 @@
     <Compile Include="Converters\ModeManualConverter.cs" />
     <Compile Include="Converters\ModeAutomaticEnabledConverter.cs" />
     <Compile Include="Converters\ModeManualEnabledConverter.cs" />
-    <Compile Include="Converters\TimeSpanRoundUpConverter.cs" />
-    <Compile Include="Converters\UtcToLocalConverter.cs" />
     <Compile Include="Helpers\Resources.cs" />
     <Compile Include="Model\DurationColor.cs" />
     <Compile Include="Model\Mode.cs" />

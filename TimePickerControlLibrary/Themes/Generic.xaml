@@ -17,7 +17,7 @@
                         Background="{TemplateBinding Background}"
                         CornerRadius="5"
                         BorderBrush="{TemplateBinding BorderBrush}"
-                        BorderThickness="{TemplateBinding BorderThickness}"><!-- padding -->
+                        BorderThickness="{TemplateBinding BorderThickness}">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="8*"/>
@@ -30,7 +30,7 @@
                                     <ColumnDefinition Width="5"/>
                                     <ColumnDefinition Width="22"/>
                                     <ColumnDefinition Width="5"/>
-                                    <ColumnDefinition Width="22"/><!-- 23 -->
+                                    <ColumnDefinition Width="22"/>
                                 </Grid.ColumnDefinitions>
 
                                 <Grid.Resources>
